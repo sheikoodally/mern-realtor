@@ -1,8 +1,8 @@
 /* eslint-disable no-undef */
 // import dotenv from 'dotenv';
-const dotenv = require('dotenv');
-dotenv.config();
+// const dotenv = require('dotenv');
+// dotenv.config();
 
-module.exports = {
-    host: process.env.HOST,
-};
+// module.exports = {
+//     host: process.env.HOST,
+// };

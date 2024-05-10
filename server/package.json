@@ -2,14 +2,15 @@
   "name": "server",
   "version": "1.0.0",
   "main": "index.js",
+  "type": "module",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mysql2": "^3.9.5",
     "nodemon": "^3.1.0",
     "pg": "^8.11.5"
   },
-  "devDependencies": {},
   "scripts": {
     "dev": "nodemon server/index.js",
     "start": "node server/index.js"
