@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function error() {
+export default function login() {
   return (
     <div>
-      err eee
+      login
     </div>
   )
 }
